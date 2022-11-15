@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Khushi Garg
 
 # 💫 About Me:
 😄 Pronouns: She/Her<br>🔭 I’m currently building Frontier.<br>🌱 I’m currently learning more about React.js.<br>📫 How to reach me: Check the social links below.<br>👯 Reach out to me for any project ideas and I would love to collaborate.<br>✨ I have a keen interest in programming, designing and the innovation that it brings.<br>⚡ Fun fact: I love origami and listening to songs.
