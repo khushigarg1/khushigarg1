@@ -1,7 +1,7 @@
 ### Heyy there!! 👋
 
 # 💫 About Me:
-😄 Pronouns: She/Her<br>🔭 I’m currently building Frontier.<br>🌱 I’m currently learning more about React.js.<br>📫 How to reach me: Check the social links below.<br>👯 Reach out to me for any project ideas and I would love to collaborate.<br>✨ I have a keen interest in programming, designing and the innovation that it brings.<br>⚡ Fun fact: I love origami and listening to songs.
+😄 Pronouns: She/Her<br>🔭 I’m currently working as a Full Stack Developer.<br>🌱 I’m currently learning more about backend technologies.<br>📫 How to reach me: Check the social links below.<br>👯 Reach out to me for any project ideas and I would love to collaborate.<br>✨ I have a keen interest in programming, designing and the innovation that it brings.<br>⚡ Fun fact: I love origami and listening to songs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-garg-03187a211/)
